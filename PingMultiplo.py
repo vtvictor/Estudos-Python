@@ -10,4 +10,4 @@ with open ('ping_test_hosts.txt') as file:
         os.system(f'ping -n 2 {ip} ')
         time.sleep(5)
 
-#teste1
+#testando3
