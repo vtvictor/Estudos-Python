@@ -51,4 +51,4 @@ Se você está aprendendo Python, sinta-se à vontade para copiar, modificar, qu
 
 ## Licença
 
-Não há licença formal aqui. Considere tudo como domínio público para fins educacionais. Se você aprender algo útil com esses códigos, fico feliz!
+Não há licença formal aqui. Considere tudo como domínio público para fins educacionais.
