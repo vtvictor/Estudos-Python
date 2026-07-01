@@ -4,16 +4,16 @@ Uma coleção de pequenos projetos e exercícios que fiz enquanto estava aprende
 
 ## O que você vai encontrar aqui
 
-- **Exemplos/** - Scripts pequenos e independentes que fiz para praticar coisas como:
+- **examples/** - Scripts pequenos e independentes que fiz para praticar coisas como:
   - Manipulação de strings e arquivos
   - Uso de bibliotecas externas (requests, matplotlib, etc)
   - Algoritmos simples (jogo de adivinhação, gerador de senhas)
   - Integração com APIs (conversor de moedas)
   - Automação básica (WhatsApp bot - use com extrema cautela!)
 
-- **Segurança da Informação/** - Alguns scripts bem simples de teste de rede (apenas ping, nada sofisticado)
+- **security_info/** - Alguns scripts bem simples de teste de rede (apenas ping, nada sofisticado)
 
-- **Sistema de envio de mensagem em massa/** - Um exemplo de como automatizar o WhatsApp usando pywhatkit. **ATENÇÃOBSERVAÇÃO IMPORTANTE:** Este é apenas para fins educacionais. Usar para spam pode te causar problemas sérios.
+- **whatsapp_bot/** - Um exemplo de como automatizar o WhatsApp usando pywhatkit. **ATENÇÃOBSERVAÇÃO IMPORTANTE:** Este é apenas para fins educacionais. Usar para spam pode te causar problemas sérios.
 
 ## Como usar
 
