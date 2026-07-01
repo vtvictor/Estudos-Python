@@ -1,3 +1,6 @@
+"""Creates a simple line chart of monthly sales data using matplotlib.
+
+"""
 import matplotlib.pyplot as plt
 
 meses = ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun"]

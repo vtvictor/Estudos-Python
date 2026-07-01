@@ -1,13 +1,21 @@
-import random
-import string
+"""Generates a random password of specified length using letters, digits, and punctuation.
 
-def gerar_senha(tamanho):
-    caracteres = string.ascii_letters + string.digits + string.punctuation
-    senha = ""
-    for i in range(tamanho):
-        senha += random.choice(caracteres)
-    return senha
+"""
+def main():
+    import random
+    import string
+    
+    def gerar_senha(tamanho):
+        caracteres = string.ascii_letters + string.digits + string.punctuation
+        senha = ""
+        for i in range(tamanho):
+            senha += random.choice(caracteres)
+        return senha
+    
+    tamanho = int(input("Digite o tamanho da senha: "))
+    senha = gerar_senha(tamanho)
+    print(f"A senha gerada é: {senha}")
+    
 
-tamanho = int(input("Digite o tamanho da senha: "))
-senha = gerar_senha(tamanho)
-print(f"A senha gerada é: {senha}")
+if __name__ == "__main__":
+    main()
